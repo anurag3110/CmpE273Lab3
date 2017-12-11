@@ -1,0 +1,284 @@
+#main {
+  width:240px;
+  height:70px;
+  text-align: center;
+}
+
+#mainpage {
+  width:60px;
+  height:50px;
+  margin-top: 100px;
+  margin-left: 50px;
+}
+
+#side {
+  width:288px;
+  height:380px;
+  text-align: center;
+}
+
+#loginform{
+  margin-top:80px;
+}
+
+#signupform{
+  margin-top:80px;
+}
+
+#signin{
+  margin-left:230px;
+}
+
+#signup{
+  margin-top:40px;
+  margin-left:150px;
+}
+
+#createaccountlink{
+  margin-left:150px;
+}
+
+#grouptag{
+  line-height: 40px;
+  font-size: 12px;
+  color: #637282;
+  margin-top:190px;
+  margin-left: 30px;
+}
+
+#loginlink{
+  margin-left:240px;
+}
+
+#modalforgroup{
+  display : none;
+}
+
+#failedlogin{
+  background-color:#ffe3e3;
+  border:1px solid #fcbdbd;
+  color:#921515;
+  display:none;
+}
+
+#group,#messmem1,#messmem2,#messmem3{
+  font-size: 15px;
+  color:#e82110;
+  display:none;
+}
+
+#changesuccess{
+  background-color:#ffe3e3;
+  border:1px solid #fcbdbd;
+  color:#921515;
+  display:none;
+}
+
+#signupsuccess{
+  background-color:#ffe3e3;
+  border:1px solid #fcbdbd;
+  color:#921515;
+  display:none;
+}
+
+#validatenm,#validatepass,#validateemail{
+  font-size: 15px;
+  color:#e82110;
+  display:none;
+}
+
+#validateloginem,#validateloginpass{
+  font-size: 15px;
+  color:#e82110;
+  display:none;
+}
+
+
+#Home{
+  margin-top:80px;
+  margin-left: 30px;
+}
+
+#signout,#about{
+    margin-top: 50px;
+    margin-left: 70px;
+}
+
+#username{
+    margin-top: 40px;
+    margin-left: 50px;
+}
+
+#faceclick{
+    box-sizing: border-box;
+}
+
+#imgbutt{
+    height:32px;
+    width:32px;
+    margin-top: 80px;
+    margin-left: 230px;
+}
+
+#li1,#li2,#li3{
+  display: none;
+  margin-top: 10px;
+  margin-left: 180px;
+}
+
+#a1,#a2,#a3{
+  text-decoration: none;
+  color: gray;
+}
+
+#selectfiles{
+  margin-top:150px;
+  margin-left: 20px;
+}
+
+#uploadfiles{
+  margin-top:150px;
+  margin-left: 20px;
+}
+
+#selectedfiles{
+  margin-top:20px;
+  margin-left: 40px;
+}
+
+#clickfolder{
+  margin-top:75px;
+  margin-left:100px;
+}
+
+#foldername{
+  margin-top:25px;
+  margin-left:100px;
+  display:none
+}
+
+#foldertag{
+  margin-top:250px
+}
+
+#createfolder{
+  margin-top:25px;
+  margin-left:100px;
+  display:none
+}
+
+
+#sharedfolderlink{
+  margin-top:10px;
+  margin-left: 70px;
+}
+
+#leftbarmain{
+    width: 240px;
+    min-width: 240px;
+    height: 700px;
+    background: #F7F9FA;
+    display: flex;
+    box-sizing: border-box;
+    flex-direction: column;
+
+}
+
+#rightbarmain{
+    height: 700px;
+}
+#recenttag{
+  line-height: 40px;
+  font-size: 12px;
+  color: #637282;
+  margin-top:40px;
+  margin-left: 30px;
+}
+
+#starredtag{
+  line-height: 40px;
+  font-size: 12px;
+  color: #637282;
+  margin-top:40px;
+  margin-left: 30px;
+}
+
+#currentpage{
+  margin-top:40px;
+  margin-left:50px;
+}
+
+#filespage{
+  margin-top:20px;
+  margin-left:50px;
+}
+
+#recentfiles{
+  width: 100%;
+  min-height: 38px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  padding: 15px 0;
+  position: relative;
+}
+
+#overview{
+  margin-top: 50px;
+  margin-left: 20px;
+  background-color:#ffe3e3;
+  border:1px solid #fcbdbd;
+  color:#921515;
+}
+
+#interests{
+  margin-top: 50px;
+  margin-left: 20px;
+  background-color:#ffe3e3;
+  border:1px solid #fcbdbd;
+  color:#921515;
+}
+#wande{
+  margin-top: 50px;
+  margin-left: 20px;
+  background-color:#ffe3e3;
+  border:1px solid #fcbdbd;
+  color:#921515;
+}
+
+#nameab,#emailab,#contactab,#musicab,#showsab,#sportsab,#workab,#educationab{
+  margin-left: 40px;
+}
+
+#changeuserinfo{
+  margin-left: 250px;
+}
+
+#fnudch,#lnudch,#emailudch,#conudch,#w1udch,#w2udch,#e1udch,#e2udch,#m1udch,##m2udch,#sh1udch,#sh2udch,#sp1udch,#sp2udch{
+  margin-top: 30px;
+  margin-left: 40px;
+}
+
+#change{
+  margin-left: 150px;
+}
+
+#maindrop{
+  margin-top: 50px;
+  margin-left: 110px;
+}
+#maindroparr{
+  margin-top: 50px;
+}
+
+#errormessage{
+  margin-top: 200px;
+  display:none;
+}
+
+#tableMenu{
+  margin-top:40px;
+}
